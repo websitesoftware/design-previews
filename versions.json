@@ -1,0 +1,23 @@
+{
+  "project": "WebsiteSoft design review",
+  "versions": [
+    {
+      "id": "01",
+      "name": "Expressive studio",
+      "commit": "c6d9a12",
+      "url": "https://websitesoftware.github.io/design-previews/01/"
+    },
+    {
+      "id": "02",
+      "name": "Cinematic technology",
+      "commit": "5d26317",
+      "url": "https://websitesoftware.github.io/design-previews/02/"
+    },
+    {
+      "id": "03",
+      "name": "Refined editorial",
+      "commit": "23650ca",
+      "url": "https://websitesoftware.github.io/design-previews/03/"
+    }
+  ]
+}
