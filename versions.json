@@ -34,6 +34,16 @@
       "ref": "spatial/05-brand-alignment",
       "url": "https://websitesoftware.github.io/design-previews/04/",
       "published": "2026-10-03T17:19:29.362Z"
+    },
+    {
+      "id": "05",
+      "name": "Spatial walk, LinkedIn theme",
+      "description": "The same spatial walk in the LinkedIn palette: navy, white and brand blue, with the mark exactly as it appears on LinkedIn.",
+      "alt": "Navy spatial design with white serif headline, blue accents and the LinkedIn W mark.",
+      "commit": "9b4c50c",
+      "ref": "phase-6-linkedin-theme",
+      "url": "https://websitesoftware.github.io/design-previews/05/",
+      "published": "2026-10-03T17:53:35.210Z"
     }
   ]
 }

@@ -6,6 +6,7 @@
 - [02 — Cinematic technology](https://websitesoftware.github.io/design-previews/02/) (source revision 5d26317)
 - [03 — Refined editorial](https://websitesoftware.github.io/design-previews/03/) (source revision 23650ca)
 - [04 — Spatial walk](https://websitesoftware.github.io/design-previews/04/) (source revision 499cdfa, spatial/05-brand-alignment)
+- [05 — Spatial walk, LinkedIn theme](https://websitesoftware.github.io/design-previews/05/) (source revision 9b4c50c, phase-6-linkedin-theme)
 
 This public repository contains only compiled static review sites, self-hosted fonts and licenses, and review thumbnails. The original application source repository and its history remain private. No custom domain is configured, so the live marketing site is unaffected.
 
