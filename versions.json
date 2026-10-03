@@ -5,19 +5,35 @@
       "id": "01",
       "name": "Expressive studio",
       "commit": "c6d9a12",
-      "url": "https://websitesoftware.github.io/design-previews/01/"
+      "url": "https://websitesoftware.github.io/design-previews/01/",
+      "description": "Bold typography, playful interaction, and a vivid sculptural centrepiece.",
+      "alt": "Expressive studio design with bold typography and an orange sculptural form."
     },
     {
       "id": "02",
       "name": "Cinematic technology",
       "commit": "5d26317",
-      "url": "https://websitesoftware.github.io/design-previews/02/"
+      "url": "https://websitesoftware.github.io/design-previews/02/",
+      "description": "Light, atmosphere, and precision. An immersive world of engineering.",
+      "alt": "Dark cinematic design with luminous typography and an orbital sculpture."
     },
     {
       "id": "03",
       "name": "Refined editorial",
       "commit": "23650ca",
-      "url": "https://websitesoftware.github.io/design-previews/03/"
+      "url": "https://websitesoftware.github.io/design-previews/03/",
+      "description": "Warm paper, expressive serif type, and carefully composed details.",
+      "alt": "Editorial design with warm ivory, burgundy serif typography, and architectural artwork."
+    },
+    {
+      "id": "04",
+      "name": "Spatial walk",
+      "description": "A scroll-driven walk through a 3D space that enacts the forward-deployed argument. Built in Three.js and React.",
+      "alt": "Dark spatial design with amber accents, serif headline and a translucent 3D pane.",
+      "commit": "499cdfa",
+      "ref": "spatial/05-brand-alignment",
+      "url": "https://websitesoftware.github.io/design-previews/04/",
+      "published": "2026-10-03T17:19:29.362Z"
     }
   ]
 }
