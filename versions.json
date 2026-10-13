@@ -55,6 +55,17 @@
       "ref": "main",
       "url": "https://websitesoftware.github.io/design-previews/06/",
       "published": "2026-10-13T08:08:53.772Z"
+    },
+    {
+      "id": "07",
+      "name": "Iris",
+      "description": "A machined ceramic intelligence with a nine-blade mechanical eye that watches, opens and orbits its service modules. Concept by Raghvendra.",
+      "alt": "Dark design centred on a white ceramic sphere with a nine-blade mechanical eye.",
+      "repo": "websitesoftware/websitesoft_site---Iris",
+      "commit": "3eaddd0",
+      "ref": "main",
+      "url": "https://websitesoftware.github.io/design-previews/07/",
+      "published": "2026-10-13T08:09:18.883Z"
     }
   ]
 }
