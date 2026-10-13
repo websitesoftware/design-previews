@@ -44,6 +44,17 @@
       "ref": "phase-6-linkedin-theme",
       "url": "https://websitesoftware.github.io/design-previews/05/",
       "published": "2026-10-03T17:53:35.210Z"
+    },
+    {
+      "id": "06",
+      "name": "City",
+      "description": "A miniature city where each district is a service, explored by camera as you scroll. Concept by Raghvendra.",
+      "alt": "Dark design with a miniature 3D city of instanced buildings and a central spire.",
+      "repo": "websitesoftware/websitesoft_site---City_idea",
+      "commit": "270cfbc",
+      "ref": "main",
+      "url": "https://websitesoftware.github.io/design-previews/06/",
+      "published": "2026-10-13T08:08:53.772Z"
     }
   ]
 }
