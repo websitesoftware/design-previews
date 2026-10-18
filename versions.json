@@ -77,6 +77,17 @@
       "ref": "main",
       "url": "https://websitesoftware.github.io/design-previews/08/",
       "published": "2026-10-18T08:29:32.135Z"
+    },
+    {
+      "id": "09",
+      "name": "Studio",
+      "description": "A static HTML and Three.js site in the LinkedIn palette, with inner pages for services, CMS work and contact. Concept by Ripudaman.",
+      "alt": "Navy design in the LinkedIn palette with the W mark and a 3D scene.",
+      "repo": "websitesoftware/websitesoft-website-design",
+      "commit": "1db69a3",
+      "ref": "main",
+      "url": "https://websitesoftware.github.io/design-previews/09/",
+      "published": "2026-10-18T08:30:08.827Z"
     }
   ]
 }
