@@ -66,6 +66,17 @@
       "ref": "main",
       "url": "https://websitesoftware.github.io/design-previews/07/",
       "published": "2026-10-18T08:29:05.620Z"
+    },
+    {
+      "id": "08",
+      "name": "One story",
+      "description": "One 3D scene runs the whole page: a website is built, launched and grown chapter by chapter, with five switchable themes. Concept by Ripudaman.",
+      "alt": "Monochrome design with a 3D website being assembled on a grid floor.",
+      "repo": "websitesoftware/websitesoft-site",
+      "commit": "19d9ccd",
+      "ref": "main",
+      "url": "https://websitesoftware.github.io/design-previews/08/",
+      "published": "2026-10-18T08:29:32.135Z"
     }
   ]
 }
