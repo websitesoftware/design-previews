@@ -8,7 +8,7 @@
 - [04 — Spatial walk](https://websitesoftware.github.io/design-previews/04/) (source revision 499cdfa, spatial/05-brand-alignment)
 - [05 — Spatial walk, LinkedIn theme](https://websitesoftware.github.io/design-previews/05/) (source revision 9b4c50c, phase-6-linkedin-theme)
 - [06 — City](https://websitesoftware.github.io/design-previews/06/) (source revision 270cfbc, main, websitesoftware/websitesoft_site---City_idea)
-- [07 — Iris](https://websitesoftware.github.io/design-previews/07/) (source revision 3eaddd0, main, websitesoftware/websitesoft_site---Iris)
+- [07 — Iris](https://websitesoftware.github.io/design-previews/07/) (source revision faf0a8c, main, websitesoftware/websitesoft_site---Iris)
 
 This public repository contains only compiled static review sites, self-hosted fonts and licenses, and review thumbnails. The original application source repository and its history remain private. No custom domain is configured, so the live marketing site is unaffected.
 
