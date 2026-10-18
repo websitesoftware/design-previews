@@ -1,4 +1,4 @@
 :HL["/design-previews/10/_next/static/chunks/0kbeal1xhw895.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"how-we-work","h":96,"c":"$Q2"}]]
-0:{"b":"6zs1MHChuUpxlwyZY7alB","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"PluEKom2aj9GRSASGwwoL","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
