@@ -88,6 +88,17 @@
       "ref": "main",
       "url": "https://websitesoftware.github.io/design-previews/09/",
       "published": "2026-10-18T08:34:24.564Z"
+    },
+    {
+      "id": "10",
+      "name": "Unified site (experimental)",
+      "description": "Iris as the portal, the CMS area and how we work as places you fly to in 3D, with every page fully readable by search engines and AI assistants. Skeleton with placeholder worlds.",
+      "alt": "Dark site with a ceramic tiled sphere around a glowing core beside the headline We sit in your room.",
+      "repo": "websitesoftware/www",
+      "commit": "a31c723",
+      "ref": "experiment/unified-site",
+      "url": "https://websitesoftware.github.io/design-previews/10/",
+      "published": "2026-10-18T15:31:48.397Z"
     }
   ]
 }
