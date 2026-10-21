@@ -88,6 +88,17 @@
       "ref": "main",
       "url": "https://websitesoftware.github.io/design-previews/09/",
       "published": "2026-10-18T08:34:24.564Z"
+    },
+    {
+      "id": "10",
+      "name": "Blue chapters",
+      "description": "A dark navy 3D story told in chapters, with full service, solution and legal pages. Static HTML and Three.js.",
+      "alt": "Dark navy design with a glossy blue W, light trails and a gradient headline.",
+      "repo": "websitesoftware/www",
+      "commit": "2d978ab",
+      "ref": "area/blue-site-fixes",
+      "url": "https://websitesoftware.github.io/design-previews/10/",
+      "published": "2026-10-21T13:30:00.340Z"
     }
   ]
 }
